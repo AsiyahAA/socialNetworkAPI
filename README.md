@@ -1,6 +1,6 @@
 # socialNetworkAPI
 ## Description
-### Project purpose was to use mongodb and mangoose to build an API for a social network app. Users would be able create list of freinds and share thoughts and reactions with friends. 
+### Project purpose was to use mongoDB and mangoose to build an API for a social network app. Users would be able create list of friends and share thoughts and reactions with friends. 
 ## User
 ### User should be able to run the app through node server.js and use insomnia to view data. User should be able to add, delete, and update data as well (such as adding a user, deleting a user, reacting to a freinds thoughts, etc)
 ## Technologies
