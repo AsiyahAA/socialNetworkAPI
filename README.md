@@ -11,11 +11,12 @@
 ### GitBash Terminal is once again needed to updload edits made in your local repository onto GitHub-using the same commands of git add ./git commit -m/git push in order for the changes to be displayed when website is deployed. 
 ### Screencastify was also used in recoridng a walk-through demostration of the socialNetworkAPI.
 ## Screenshot
-### <img width="1128" alt="2022-07-28 (4)" src="https://user-images.githubusercontent.com/104933717/181662662-8c9c2652-ae0e-44a6-aa09-54b6fceb7cc7.png">
-### <img width="1128" alt="2022-07-28 (5)" src="https://user-images.githubusercontent.com/104933717/181662692-fee39e07-edb0-4d2a-9217-2e71bf31eebd.png">
-## Video Link
-### https://drive.google.com/file/d/1i8ZxiCuMN6PplqNpnKHwhYBecxPhZqXR/view
+### <img width="1128" alt="2022-08-16 (5)" src="https://user-images.githubusercontent.com/104933717/185015927-0c48fae8-9570-482f-b063-4d7dc955a21a.png">
+### <img width="1128" alt="2022-08-16 (2)" src="https://user-images.githubusercontent.com/104933717/185016169-27b64e15-8188-4a2f-b6c0-d75814cb6f6f.png">
+
+## Video Demo Link
+### https://drive.google.com/file/d/1GgXOOHh0f2GXkSaD1T79qwEGFLyH3N2B/view
 ## Status 
-### socialNetworkAPI is currently working   
+### socialNetworkAPI is currently working in getting data for all users/thoughts, getting data for one user/thoughts, as well as posting, putting, and deleting users/thoughts. Unfortunetly, user is unable to add or remove friends in insomnia or add and remove reactions to thoughts in insomnia. Future work on this project will ensure a working add and remove route for friends and reactions that user can use.   
 ## Credits/Sources 
 ### Tutoring, WW3 Schools, TA's, Stack Overflow, Slack AskBot
